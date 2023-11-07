@@ -1245,4 +1245,5 @@
   <block id="7d0ee6fed10d3d4e5c9ee496729ab519" category="sidebar">リリースノート</block>
   <block id="33871b6190a8d5adbe8b15282054766c" category="sidebar">新機能</block>
   <block id="93168a8084b3e838d2932c4734bd234e" category="sidebar">以前のバージョン</block>
+  <block id="19ec08da81a826d919d64ab860845c04" category="sidebar">API リファレンス</block>
 </blocks>
