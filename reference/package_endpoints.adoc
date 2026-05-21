@@ -1,0 +1,12 @@
+---
+sidebar: sidebar 
+api: true 
+explorer: false 
+permalink: reference/package_endpoints.html 
+summary: Astra API（ACS）パッケージエンドポイント 
+---
+= Astra API（ACS）パッケージエンドポイント
+:allow-uri-read: 
+
+
+パッケージAPIは、インストール可能なソフトウェアパッケージを表します。

@@ -1,0 +1,12 @@
+---
+sidebar: sidebar 
+api: true 
+explorer: false 
+permalink: reference/app_endpoints.html 
+summary: Astra API（ACS）アプリのエンドポイント 
+---
+= Astra API（ACS）アプリのエンドポイント
+:allow-uri-read: 
+
+
+App API は、 Astra で管理されていないアプリケーションを含む Kubernetes アプリケーションを表します。

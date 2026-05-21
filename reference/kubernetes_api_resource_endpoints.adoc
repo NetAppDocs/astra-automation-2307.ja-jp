@@ -1,0 +1,12 @@
+---
+sidebar: sidebar 
+api: true 
+explorer: false 
+permalink: reference/kubernetes_api_resource_endpoints.html 
+summary: Astra API（ACS）Kubernetes APIリソースエンドポイント 
+---
+= Astra API（ACS）Kubernetes APIリソースエンドポイント
+:allow-uri-read: 
+
+
+Kubernetes API リソース API は、Kubernetes API リソースへの読み取り専用アクセスを提供し、特定のクラスタで Astra によってサポートされているリソースをフィルタリングします。

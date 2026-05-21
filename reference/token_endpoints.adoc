@@ -1,0 +1,12 @@
+---
+sidebar: sidebar 
+api: true 
+explorer: false 
+permalink: reference/token_endpoints.html 
+summary: Astra API（ACS）トークンエンドポイント 
+---
+= Astra API（ACS）トークンエンドポイント
+:allow-uri-read: 
+
+
+Token APIを使用すると、ユーザーはAPIアクセストークンを作成および管理できます。
