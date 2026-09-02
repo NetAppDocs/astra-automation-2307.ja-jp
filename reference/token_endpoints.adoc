@@ -7,6 +7,7 @@ summary: Astra API（ACS）トークンエンドポイント
 ---
 = Astra API（ACS）トークンエンドポイント
 :allow-uri-read: 
+:imagesdir: ../media/
 
 
 Token APIを使用すると、ユーザーはAPIアクセストークンを作成および管理できます。

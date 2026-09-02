@@ -7,6 +7,7 @@ summary: Astra API（ACS）イベントエンドポイント
 ---
 = Astra API（ACS）イベントエンドポイント
 :allow-uri-read: 
+:imagesdir: ../media/
 
 
 イベントAPIは、システム内で発生するイベントへのアクセスを提供します。

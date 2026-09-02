@@ -7,6 +7,7 @@ summary: Astra API（ACS）グループエンドポイント
 ---
 = Astra API（ACS）グループエンドポイント
 :allow-uri-read: 
+:imagesdir: ../media/
 
 
 グループAPIは、Astraグループリソースへのアクセスを提供します。

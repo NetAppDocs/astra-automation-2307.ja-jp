@@ -7,6 +7,7 @@ summary: ライセンスを変更する
 ---
 = ライセンスを変更する
 :allow-uri-read: 
+:imagesdir: ../media/
 
 
 [.api-doc-operation .api-doc-operation-put]#PUT# [.api-doc-code-block]#`/accounts/{account_id}/core/v1/licenses/{license_id}`#
@@ -20,6 +21,7 @@ summary: ライセンスを変更する
 
 
 
+[[parameters]]
 == パラメータ
 
 [cols="5*"]
@@ -41,6 +43,7 @@ summary: ライセンスを変更する
 |===
 
 
+[[request-body]]
 == 要求の本文
 
 保存されているリソース全体を、指定されたJSONリクエストボディに置き換えますが、ユーザーが変更できないキー値は保持します。
@@ -214,6 +217,7 @@ NetAppライセンスシステムから取得したライセンスJSONのbase64�
 ====
 
 
+[[response]]
 == 応答
 
 [source]
@@ -222,6 +226,7 @@ Status: 204, Indicates if the license resource was updated.
 ----
 
 
+[[response]]
 == 応答
 
 [source]
@@ -267,6 +272,7 @@ Status: 401, Unauthorized
 ====
 
 
+[[response]]
 == 応答
 
 [source]
@@ -317,6 +323,7 @@ Status: 400, Bad request
 ====
 
 
+[[response]]
 == 応答
 
 [source]
@@ -367,6 +374,7 @@ Status: 409, Conflict
 ====
 
 
+[[response]]
 == 応答
 
 [source]
@@ -412,6 +420,7 @@ Status: 403, Forbidden
 ====
 
 
+[[error]]
 == エラー
 
 [source]
@@ -457,11 +466,13 @@ Status: 404, Not found
 ====
 
 
+[[definitions]]
 == 用語の意味
 
 .定義を参照
 [%collapsible]
 ====
+[[addons]]
 [role="api-collapsible-fifth-title"]
 アドオン
 
@@ -509,6 +520,7 @@ Status: 404, Not found
 
 
 |===
+[[type_astra_label]]
 [role="api-collapsible-fifth-title"]
 type_astra_label
 
@@ -524,6 +536,7 @@ type_astra_label
 | Value | string | True  a| 
 
 |===
+[[type_astra_metadata_update]]
 [role="api-collapsible-fifth-title"]
 type_astra_metadata_update
 
@@ -556,6 +569,7 @@ type_astra_metadata_update
 | modifiedBy | string | False  a| 
 
 |===
+[[invalidParams]]
 [role="api-collapsible-fifth-title"]
 invalidParams
 
@@ -573,6 +587,7 @@ invalidParams
 クエリパラメータが無効な理由
 
 |===
+[[invalidFields]]
 [role="api-collapsible-fifth-title"]
 invalidFields
 

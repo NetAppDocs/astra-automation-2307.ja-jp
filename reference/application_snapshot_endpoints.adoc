@@ -7,6 +7,7 @@ summary: Astra API（ACS）アプリケーションSnapshotエンドポイント
 ---
 = Astra API（ACS）アプリケーションSnapshotエンドポイント
 :allow-uri-read: 
+:imagesdir: ../media/
 
 
 Application Snapshot APIを使用すると、ユーザーは管理対象アプリケーションのスナップショットを作成および表示できます。
