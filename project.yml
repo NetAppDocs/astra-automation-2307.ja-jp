@@ -37,7 +37,7 @@ sidebar:
   - title: API リファレンス
     entries:
     - title: 概要
-      url: "/reference/astra_api_(acs)_overview.html"
+      url: "/reference/astra_api_acs_overview.html"
     - title: ASUP
       entries:
       - title: 概要
